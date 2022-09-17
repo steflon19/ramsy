@@ -1,0 +1,13 @@
+{
+    "name": "raw-nodejs",
+    "version": "0.0.0",
+    "description": "A simple Node.js server using no external packages and libraries",
+    "main": "src/App.js",
+    "bin": "bin/skeleton",
+    "scripts": {
+        "dev": "node src/App.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Stefan Lontschar",
+    "license": "MIT"
+}
