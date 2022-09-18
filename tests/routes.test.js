@@ -32,4 +32,4 @@ test('postTodos', () => {
         })
 
 })
-// TODO: should include proper route tests, the server needs to run for these and repsonse is not evaluated
+// TODO: should include proper route tests, these dont actually evaluate server responses
