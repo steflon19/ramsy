@@ -1,13 +1,17 @@
 {
-    "name": "raw-nodejs",
+    "name": "ramsy",
     "version": "0.0.0",
     "description": "A simple Node.js server using no external packages and libraries",
+    "type": "commonjs",
     "main": "src/App.js",
-    "bin": "bin/skeleton",
     "scripts": {
-        "dev": "node src/App.js",
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "start": "node src/App.js",
+        "test": "jest"
     },
     "author": "Stefan Lontschar",
-    "license": "MIT"
+    "license": "MIT",
+    "devDependencies": {
+        "jest": "^29.0.3",
+        "nock": "^13.2.9"
+    }
 }

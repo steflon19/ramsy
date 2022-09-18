@@ -1,0 +1,155 @@
+{
+    "photos": [
+        {
+            "albumId": 1,
+            "id": 1,
+            "title": "accusamus beatae ad facilis cum similique qui sunt",
+            "url": "https://via.placeholder.com/600/92c952",
+            "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+        },
+        {
+            "albumId": 1,
+            "id": 2,
+            "title": "reprehenderit est deserunt velit ipsam",
+            "url": "https://via.placeholder.com/600/771796",
+            "thumbnailUrl": "https://via.placeholder.com/150/771796"
+        },
+        {
+            "albumId": 1,
+            "id": 3,
+            "title": "officia porro iure quia iusto qui ipsa ut modi",
+            "url": "https://via.placeholder.com/600/24f355",
+            "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+        },
+        {
+            "albumId": 1,
+            "id": 4,
+            "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+            "url": "https://via.placeholder.com/600/d32776",
+            "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+        },
+        {
+            "albumId": 1,
+            "id": 5,
+            "title": "natus nisi omnis corporis facere molestiae rerum in",
+            "url": "https://via.placeholder.com/600/f66b97",
+            "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+        },
+        {
+            "albumId": 1,
+            "id": 6,
+            "title": "accusamus ea aliquid et amet sequi nemo",
+            "url": "https://via.placeholder.com/600/56a8c2",
+            "thumbnailUrl": "https://via.placeholder.com/150/56a8c2"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "Leanne Graham",
+            "username": "Bret",
+            "email": "Sincere@april.biz",
+            "address": {
+                "street": "Kulas Light",
+                "suite": "Apt. 556",
+                "city": "Gwenborough",
+                "zipcode": "92998-3874",
+                "geo": {
+                    "lat": "-37.3159",
+                    "lng": "81.1496"
+                }
+            },
+            "phone": "1-770-736-8031 x56442",
+            "website": "hildegard.org",
+            "company": {
+                "name": "Romaguera-Crona",
+                "catchPhrase": "Multi-layered client-server neural-net",
+                "bs": "harness real-time e-markets"
+            }
+        },
+        {
+            "id": 2,
+            "name": "Ervin Howell",
+            "username": "Antonette",
+            "email": "Shanna@melissa.tv",
+            "address": {
+                "street": "Victor Plains",
+                "suite": "Suite 879",
+                "city": "Wisokyburgh",
+                "zipcode": "90566-7771",
+                "geo": {
+                    "lat": "-43.9509",
+                    "lng": "-34.4618"
+                }
+            },
+            "phone": "010-692-6593 x09125",
+            "website": "anastasia.net",
+            "company": {
+                "name": "Deckow-Crist",
+                "catchPhrase": "Proactive didactic contingency",
+                "bs": "synergize scalable supply-chains"
+            }
+        },
+        {
+            "id": 3,
+            "name": "Clementine Bauch",
+            "username": "Samantha",
+            "email": "Nathan@yesenia.net",
+            "address": {
+                "street": "Douglas Extension",
+                "suite": "Suite 847",
+                "city": "McKenziehaven",
+                "zipcode": "59590-4157",
+                "geo": {
+                    "lat": "-68.6102",
+                    "lng": "-47.0653"
+                }
+            },
+            "phone": "1-463-123-4447",
+            "website": "ramiro.info",
+            "company": {
+                "name": "Romaguera-Jacobson",
+                "catchPhrase": "Face to face bifurcated interface",
+                "bs": "e-enable strategic applications"
+            }
+        }
+    ],
+    "posts": [
+        {
+            "userId": 1,
+            "id": 10,
+            "title": "optio molestias id quia eum",
+            "body": "quo et expedita modi cum officia vel magni\ndoloribus qui repudiandae\nvero nisi sit\nquos veniam quod sed accusamus veritatis error"
+        },
+        {
+            "userId": 2,
+            "id": 11,
+            "title": "et ea vero quia laudantium autem",
+            "body": "delectus reiciendis molestiae occaecati non minima eveniet qui voluptatibus\naccusamus in eum beatae sit\nvel qui neque voluptates ut commodi qui incidunt\nut animi commodi"
+        },
+        {
+            "userId": 7,
+            "id": 70,
+            "title": "voluptatem laborum magni",
+            "body": "sunt repellendus quae\nest asperiores aut deleniti esse accusamus repellendus quia aut\nquia dolorem unde\neum tempora esse dolore"
+        },
+        {
+            "userId": 8,
+            "id": 71,
+            "title": "et iusto veniam et illum aut fuga",
+            "body": "occaecati a doloribus\niste saepe consectetur placeat eum voluptate dolorem et\nqui quo quia voluptas\nrerum ut id enim velit est perferendis"
+        },
+        {
+            "userId": 9,
+            "id": 90,
+            "title": "ad iusto omnis odit dolor voluptatibus",
+            "body": "minus omnis soluta quia\nqui sed adipisci voluptates illum ipsam voluptatem\neligendi officia ut in\neos soluta similique molestias praesentium blanditiis"
+        },
+        {
+            "userId": 10,
+            "id": 100,
+            "title": "at nam consequatur ea labore ea harum",
+            "body": "cupiditate quo est a modi nesciunt soluta\nipsa voluptas error itaque dicta in\nautem qui minus magnam et distinctio eum\naccusamus ratione error aut"
+        }
+    ]
+}
