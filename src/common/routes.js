@@ -5,7 +5,8 @@ const ROUTES = {
     images: '/images',
     nicholas: '/Nicholas',
     romaguera: '/Romaguera',
-    sortedUsers: '/sorted-users'
+    sortedUsers: '/sorted-users',
+    newTodos: '/new-todos'
 }
 
 module.exports = { ROUTES }
